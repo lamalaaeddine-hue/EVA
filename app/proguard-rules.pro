@@ -1,0 +1,3 @@
+-keep class com.eva.app.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**
